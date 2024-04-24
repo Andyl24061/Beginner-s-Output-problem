@@ -18,4 +18,4 @@ print(food)
 vehicle = input("Enter a vehicle")
 print(vehicle)
 
-print(name, "is a ", verb, "person to be around. They love to cook in", place,".", "Their favourite food is", food, "which they eat in", vehicle)
+print(name, "is a ", adjective, "person to be around. They love to", verb, "in" place, ".", "Their favourite food is", food, "which they eat in", vehicle)
